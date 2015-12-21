@@ -5,4 +5,5 @@ package org.quality;
  */
 public class App {
     private String aa;
+    private String h2;
 }
